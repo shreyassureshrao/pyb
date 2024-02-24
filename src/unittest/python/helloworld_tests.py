@@ -9,4 +9,4 @@ class HelloWorldTest(unittest.TestCase):
 
         helloworld(out)
 
-        verify(out).write("Hello world of Java\n")
+        verify(out).write("Hello world of Python\n")
